@@ -1,0 +1,1 @@
+This project contains Employee Tweet Application done using different api of spring.
